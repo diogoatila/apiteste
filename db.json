@@ -1,11 +1,6 @@
 {
   "topics": [
-    {
-      "number": 2,
-      "title": "to learn french",
-      "plates": []
-    },
-    {
+       {
       "id": 2,
       "title": "to learn french",
       "completed": true

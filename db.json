@@ -1,5 +1,9 @@
 {
-  "number": 47355,
-  "gateId": 0,
-  "plates": []
-  }
+  "OCR": [
+    {
+      "number": 1,
+      "gateId": 0,
+      "plates": []
+    }
+  ]
+}
